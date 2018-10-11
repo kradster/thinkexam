@@ -1246,7 +1246,7 @@ a>input {
 }
 
 .marign-none {
-    margin: none !important;
+    margin: 0px !important;
 }
 
 .mrgt10px {
